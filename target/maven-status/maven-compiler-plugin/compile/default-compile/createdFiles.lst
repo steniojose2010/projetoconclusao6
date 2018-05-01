@@ -1,0 +1,4 @@
+dao\PessoaDao.class
+modelo\Pessoa.class
+util\utilMensagens.class
+controle\PessoaMB.class
